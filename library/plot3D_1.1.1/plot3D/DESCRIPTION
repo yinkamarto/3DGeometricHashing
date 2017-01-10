@@ -1,0 +1,18 @@
+Package: plot3D
+Version: 1.1.1
+Title: Plotting Multi-Dimensional Data
+Author: Karline Soetaert <karline.soetaert@nioz.nl>
+Maintainer: Karline Soetaert <karline.soetaert@nioz.nl>
+Depends: R (>= 2.15)
+Imports: misc3d, stats, graphics, grDevices
+Description: Functions for viewing 2-D and 3-D data, including perspective plots, slice plots, surface plots, scatter plots, etc. Includes data sets from oceanography.
+License: GPL (>=3.0)
+LazyData: yes
+Repository: R-Forge
+Repository/R-Forge/Project: plot3d
+Repository/R-Forge/Revision: 118
+Repository/R-Forge/DateTimeStamp: 2016-07-20 11:31:54
+Date/Publication: 2016-07-20 11:31:54
+NeedsCompilation: no
+Packaged: 2016-07-20 11:45:42 UTC; rforge
+Built: R 3.3.0; ; 2016-07-20 11:56:50 UTC; windows

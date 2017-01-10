@@ -1,0 +1,8 @@
+Ended up using list of type matrix
+so for each hash, it points to an integer value which is used to pull up all 
+the values of the selected key
+
+
+notable bug
+-----------
+forgot to fix 0 to 0.5 in the bin for the new image and resulted in error **fixed
